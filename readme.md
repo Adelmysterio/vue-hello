@@ -13,4 +13,4 @@ aggiungo un immagine al file html aggiungendo con vbind:src= al contenuto di una
 
 creo un input nel html con un v-model collegato ad una proprieta nel JS
 
-creo un bottone a cui aggiungo il tag @click per far avviare una funzione scritta nel file JS usando la funzione vue methods
+aggiungo il tag @click all'immagine per far avviare una funzione scritta nel file JS usando la funzione vue methods
