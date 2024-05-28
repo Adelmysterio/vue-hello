@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#app {
+    padding: 2rem;
+}
+
+#app>* {
+    margin-bottom: 1rem;
+}
+
+#app> input {
+    height: 2rem;
+}

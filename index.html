@@ -14,7 +14,11 @@
 <body>
     <div id="app">
         <h1> {{message}} </h1>
-        <img :src="fonteImg" alt="">
+        <label for="input">Scrivi qualcosa </label>
+        <input name="input" id="input" type="text" v-model="message">
+        <figure>
+            <img :src="fonteImg" alt="">
+        </figure>
     </div>
 
     <!-- File JS -->
